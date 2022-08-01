@@ -1,0 +1,5 @@
+1:https://www.usatoday.com/
+5:https://cm.usatoday.com/site-feedback/?platform=Tangent-Desktop&url=https%3A%2F%2Fwww.usatoday.com%2F&marketName=usatoday&cta=Right-Rail" class=gnt_m_fs_a data-t-l=":survey|v|c|We're always working..." aria-label="We're always working to improve your experience. Let us know what you think.
+9:https://user.usatoday.com/USAT-GUP/user/logout/?return-url=https%3A%2F%2Fwww.usatoday.com%2F" data-t-l=":m|a|c|sign out
+12:https://login.usatoday.com/USAT-GUP/authenticate?success-url=https%3A%2F%2Fwww.usatoday.com%2F&cancel-url=https%3A%2F%2Fwww.usatoday.com%2F" data-t-l=":m|a|c|sign in
+13:https://login.usatoday.com/authenticate/?requested-state=create-account&amp;reg_source=CPNAVBAR&amp;reg_medium=ONSITE&amp;reg_campaign=signin&amp;reg_delivery=ux" data-t-l=":m|a|c|create account

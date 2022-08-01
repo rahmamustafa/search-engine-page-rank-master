@@ -1,0 +1,8 @@
+15:https://edition.cnn.com/
+16:https://money.cnn.com/data/markets/" data-analytics="header_expanded-nav
+26:https://www.turnerjobs.com/search-jobs?orgIds=1174&amp;ac=19299" data-analytics="header_expanded-nav
+29:https://money.cnn.com/data/markets/" data-analytics="footer
+42:https://www.turnerjobs.com/search-jobs?orgIds=1174&amp;ac=19299" data-analytics="footer
+43:https://commercial.cnn.com" data-analytics="footer
+44:http://cnnnewsource.com" data-analytics="footer
+47:https://www.cnn.com/sitemap.html" data-analytics="footer
